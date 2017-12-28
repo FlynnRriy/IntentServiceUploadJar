@@ -1,2 +1,1 @@
-# IntentServiceUploadJar
-IntentService POST上传数据，内部为HttpURLConnection
+compile 'com.github.FlynnRriy:IntentServiceUploadJar:2.0'
