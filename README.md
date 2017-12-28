@@ -1,0 +1,2 @@
+# IntentServiceUploadJar
+IntentService POST上传数据，内部为HttpURLConnection
